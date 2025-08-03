@@ -1,0 +1,14 @@
+digraph {
+	"Travel Preference Analyst"
+	"Global Destination Scout"
+	"Travel Preference Analyst" -> "Global Destination Scout"
+	"Detailed Itinerary Crafter"
+	"Global Destination Scout" -> "Detailed Itinerary Crafter"
+	"Travel Logistics Specialist"
+	"Detailed Itinerary Crafter" -> "Travel Logistics Specialist"
+	"Chief Itinerary Publisher"
+	"Travel Preference Analyst" -> "Chief Itinerary Publisher"
+	"Global Destination Scout" -> "Chief Itinerary Publisher"
+	"Detailed Itinerary Crafter" -> "Chief Itinerary Publisher"
+	"Travel Logistics Specialist" -> "Chief Itinerary Publisher"
+}

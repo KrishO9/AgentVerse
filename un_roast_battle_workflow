@@ -1,0 +1,12 @@
+digraph {
+	"Roastmaster Randy 'The Gavel' Gupta"
+	"Narendra 'Zen Master' Modi"
+	"Roastmaster Randy 'The Gavel' Gupta" -> "Narendra 'Zen Master' Modi"
+	"Shehbaz 'The Diplomat' Sharif"
+	"Donald 'The Great' Trump"
+	"Steno Sally, Chief Transcript Officer"
+	"Roastmaster Randy 'The Gavel' Gupta" -> "Steno Sally, Chief Transcript Officer"
+	"Narendra 'Zen Master' Modi" -> "Steno Sally, Chief Transcript Officer"
+	"Donald 'The Great' Trump" -> "Steno Sally, Chief Transcript Officer"
+	"Shehbaz 'The Diplomat' Sharif" -> "Steno Sally, Chief Transcript Officer"
+}

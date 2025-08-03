@@ -1,0 +1,14 @@
+digraph {
+	"Rosie 'The Scoop' O'Malley"
+	"Sharpay 'The Sarcastic' Stevens"
+	"Rosie 'The Scoop' O'Malley" -> "Sharpay 'The Sarcastic' Stevens"
+	"Patty 'Pun-isher' Pumpernickel"
+	"Rosie 'The Scoop' O'Malley" -> "Patty 'Pun-isher' Pumpernickel"
+	"Zip 'The Zing' McQuick"
+	"Rosie 'The Scoop' O'Malley" -> "Zip 'The Zing' McQuick"
+	"Ronny 'The Recap' Rodriguez"
+	"Sharpay 'The Sarcastic' Stevens" -> "Ronny 'The Recap' Rodriguez"
+	"Patty 'Pun-isher' Pumpernickel" -> "Ronny 'The Recap' Rodriguez"
+	"Zip 'The Zing' McQuick" -> "Ronny 'The Recap' Rodriguez"
+	"Rosie 'The Scoop' O'Malley" -> "Ronny 'The Recap' Rodriguez"
+}

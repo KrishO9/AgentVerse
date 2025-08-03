@@ -1,0 +1,13 @@
+digraph {
+	"Tech Trend Researcher"
+	"Engaging Tech Blogger"
+	"Tech Trend Researcher" -> "Engaging Tech Blogger"
+	"Catchy Title Creator"
+	"Engaging Tech Blogger" -> "Catchy Title Creator"
+	"Social Media Whiz"
+	"Engaging Tech Blogger" -> "Social Media Whiz"
+	"Catchy Title Creator" -> "Social Media Whiz"
+	"Digital Content Publisher"
+	"Engaging Tech Blogger" -> "Digital Content Publisher"
+	"Catchy Title Creator" -> "Digital Content Publisher"
+}
